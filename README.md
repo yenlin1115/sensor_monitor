@@ -71,8 +71,8 @@ This project is a sensor data monitoring platform developed by a team for the UW
 ## Team
 *   This project was developed by a team for the Capstone Project at the University of Wisconsin-Milwaukee.
 *   AMI Team
-    *   Member 1: YU-ERH, PAN
-    *   Member 2: Yen-Lin, Chang
+    *   Member 1: YU-ERH PAN
+    *   Member 2: Yen-Lin Chang
     *   Member 3: Carson K Lisowe
     *   Member 4: Taiwo Boluwaji Abe
     *   Member 5: Collin Brey
